@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
                 mid++;
             }
         }
-//sss
+//s
        if (third>center){
            for (int t=mid;t<=right;t++){
                tempArr[temp+t+mid]=data[t];
